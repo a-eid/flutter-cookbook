@@ -6,6 +6,8 @@ import 'package:flutter/material.dart';
 
 // import 'design/drawer.dart';
 // import 'design/snackbar.dart';
-import 'design/orientation.dart';
+// import 'design/orientation.dart';
+// import 'design/tabs.dart';
+import 'design/bottom-tabs.dart';
 
 void main() => runApp(App());
