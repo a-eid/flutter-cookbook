@@ -5,6 +5,7 @@ import 'package:flutter/material.dart';
 // import 'animation/opacity.dart';
 
 // import 'design/drawer.dart';
-import 'design/snackbar.dart';
+// import 'design/snackbar.dart';
+import 'design/orientation.dart';
 
 void main() => runApp(App());
