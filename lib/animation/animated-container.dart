@@ -52,7 +52,7 @@ class _ExampleState extends State<Example> {
             width: width,
             height: height,
             curve: Curves.easeInOut,
-            duration: Duration(seconds: 1),
+            duration: Duration(seconds: 1)
           ),
         ),
       ),

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-// import 'animation/page-router.dart' as t1;
-// import 'animation/draggable-widget.dart' as t2;
-import 'animation/animated-container.dart' as t3;
+// import 'animation/page-router.dart';
+// import 'animation/draggable-widget.dart';
+// import 'animation/animated-container.dart';
+import 'animation/opacity.dart';
 
-void main() => runApp(t3.App());
+void main() => runApp(App());
